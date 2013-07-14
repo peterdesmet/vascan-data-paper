@@ -12,7 +12,7 @@ Received {date}; Revised {date}; Accepted {date}; Published {date}
 
 ## Resource citation
 
-Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010 -). Database of Vascular Plants of Canada (VASCAN). 26690 records. Online at <http://dx.doi.org/10.5886/1bft7W5f>, <http://data.canadensys.net/vascan>, and <http://data.gbif.org/datasets/resource/13558>. Version 24 (last updated on 2013-06-30), GBIF key: 3f8a1297-3259-4700-91fc-acc4170b27ce. Data paper DOI: xxxx
+Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 26690 records. Online at <http://dx.doi.org/10.5886/1bft7W5f>, <http://data.canadensys.net/vascan>, and <http://data.gbif.org/datasets/resource/13558>. Version 24 (last updated on 2013-06-30), GBIF key: 3f8a1297-3259-4700-91fc-acc4170b27ce. Data paper DOI: xxxx
 
 [^2]: see Appendix 1.
 
