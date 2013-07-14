@@ -1,6 +1,6 @@
 # Database of Vascular Plants of Canada (VASCAN): a community contributed taxonomic checklist of all vascular plants of Canada, Saint Pierre and Miquelon, and Greenland
 
-Peter Desmet[^1], Luc Brouillet[^1]
+Peter Desmet, Luc Brouillet[^1]
 
 [^1]: Université de Montréal Biodiversity Centre, 4101 rue Sherbrooke est, H1X2B2, Montreal, Canada
 
@@ -14,7 +14,7 @@ Received {date}; Revised {date}; Accepted {date}; Published {date}
 
 Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010 -). Database of Vascular Plants of Canada (VASCAN). 26690 records. Online at <http://dx.doi.org/10.5886/1bft7W5f>, <http://data.canadensys.net/vascan>, and <http://data.gbif.org/datasets/resource/13558>. Version 24 (last updated on 2013-06-30), GBIF key: 3f8a1297-3259-4700-91fc-acc4170b27ce. Data paper DOI: xxxx
 
-[^2] see Appendix 1.
+[^2]: see Appendix 1.
 
 ## Abstract
 
