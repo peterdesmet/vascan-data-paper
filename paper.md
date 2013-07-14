@@ -48,7 +48,7 @@ Partial funding came from Parks Canada, the Canadian Biodiversity Information Fa
 
 ### Study area description
 
-The study area occupies the northern half of North America (excluding Alaska). The area of Canada is 9,984,670 km2, of Greenland (or Kulaalit Nunaat, an autonomous country within the kingdom of Denmark) 2,166,086 km2, and Saint Pierre and Miquelon (collectivité territoriale, France) 242 km2. The latter is 20 km off the coast of Newfoundland's Burin Peninsula and its characteristics are those of boreal eastern Canada. From west to east, the main physiographic regions are the Western Cordillera, the sedimentary Interior Plains, the Canadian and Greenland Shields (mostly igneous rocks), the sedimentary Great Lakes and St. Lawrences Lowlands, and the Appalachian Mountains. The sedimentary Hudson Bay Lowlands basin lies at the centre of the shield, a northern area of sedimentary plains and mountains, and the Canadian Arctic borders the Arctic Ocean in northern Canada and northern Greenland. An ice cap covers 81% of Greenland.
+The study area occupies the northern half of North America (excluding Alaska). The area of Canada is 9,984,670 km<sup>2</sup>, of Greenland (or Kulaalit Nunaat, an autonomous country within the kingdom of Denmark) 2,166,086 km<sup>2</sup>, and Saint Pierre and Miquelon (collectivité territoriale, France) 242 km<sup>2</sup>. The latter is 20 km off the coast of Newfoundland's Burin Peninsula and its characteristics are those of boreal eastern Canada. From west to east, the main physiographic regions are the Western Cordillera, the sedimentary Interior Plains, the Canadian and Greenland Shields (mostly igneous rocks), the sedimentary Great Lakes and St. Lawrences Lowlands, and the Appalachian Mountains. The sedimentary Hudson Bay Lowlands basin lies at the centre of the shield, a northern area of sedimentary plains and mountains, and the Canadian Arctic borders the Arctic Ocean in northern Canada and northern Greenland. An ice cap covers 81% of Greenland.
 
 The dominant vegetation type of the area is the boreal forest, which occupies much of Canada from Yukon and northeastern British Columbia to Newfoundland. To the north, Arctic tundra prevails: it can be divided into low Arctic (with a nearly continuous plant cover, sometimes shrubby) and high Arctic (including polar deserts); these types are the only ones found in Greenland. To the south of the boreal forest, from west to east, are the humid Pacific Coastal forest, the Cordilleran forest, the Prairie grasslands, the eastern temperate forests (southern Ontario and Quebec), and the Atlantic or Acadian forests.
 
@@ -99,7 +99,7 @@ The website also provides a checklist builder (<http://data.canadensys.net/vasca
 
 ### Bounding box for covered area
 
-41°40'N and 83°40'N Latitude; 141°00'W and 11°19'W Longitude
+41°40'N and 83°40'N latitude; 141°00'W and 11°19'W longitude
 
 ## Temporal coverage
 
@@ -113,7 +113,7 @@ See the section ‘Spatial coverage’.
 
 ### Sampling description
 
-The data are sampled manually from literature by the editors,though recent additions are based on specimens maintained at institutional herbaria across Canada (see Thiers).
+The data are sampled manually from literature by the editors, though recent additions are based on specimens maintained at institutional herbaria across Canada (see Thiers).
 
 All floras covering Canada, Greenland, and St. Pierre and Miquelon were considered for literature-based data entry, but only the most recent provincial and territorial floras (see the section ‘References used to build the dataset’) were systematically searched to establish the distribution status of each taxon in each region (see the section ‘Spatial coverage’). Scoggan’s Flora of Canada (1978-1979) was systematically searched, as were Kartesz (1999) and the Flora of North America (FNA Ed. Comm. 1993+). English and French vernacular names are based on usage in Canada and, for introduced taxa, on vernaculars from the countries of origin (when the taxon is from Europe). Alternate (synonym) vernaculars are provided when several names are in usage (notably regional names), but an accepted vernacular is recommended for general usage throughout the country. The method of selection of vernacular names follows Darbyshire et al. (2000). The source of the information is referenced for all scientific names, vernacular names and distributions in the dataset.
 
@@ -127,7 +127,7 @@ Suggestions or corrections regarding names, taxonomy, or functionality of the VA
 
 The data are stored in a relational database (MySQL), which powers the search, checklist builder, taxon and name pages of the VASCAN website. Editors update a development copy of the database through a secure web application. This allows them to make revisions without affecting the users of the website. Once they agree that the data are consistent, in which they are aided by the application, they can push that version of the database to production.
 
-At that moment, the application will also automatically generate a Darwin Core Archive of the data, using the GBIF GNA Profile (GBIF 2010) and following best practices for publishing checklists (GBIF 2011). This archive (Figure 3) includes all data, except for calculated distributions, hybrid parents, and user credentials. The archive is then manually uploaded to the Canadensys Repository, a GBIF Integrated Publishing Toolkit, and republished, at which time it will be assigned a new version number (version 22 at the time of publication). The dataset is registered with the Global Biodiversity Information Facility (GBIF), which allows that organization to harvest, display and distribute the data at any time.
+At that moment, the application will also automatically generate a Darwin Core Archive of the data, using the GBIF GNA Profile (GBIF 2010) and following best practices for publishing checklists (GBIF 2011). This archive (Figure 3) includes all data, except for calculated distributions, hybrid parents, and user credentials. The archive is then manually uploaded to the Canadensys Repository, a GBIF Integrated Publishing Toolkit, and republished, at which time it will be assigned a new version number (version 24 at the time of publication). The dataset is registered with the Global Biodiversity Information Facility (GBIF), which allows that organization to harvest, display and distribute the data at any time.
 
 ![Figure 3](images/figure-3.png)
 
@@ -213,6 +213,7 @@ World Bank. 2013. World Development Indicator Data: Terrestrial protected areas 
 ### References used to build the dataset
 
 See also the references above. Only the main references are listed; at the time of publication, 521 sources are cited in the dataset.
+
 Aiken, S.G., M.J. Dallwitz, L.L. Consaul, C.L. McJannet, R.L. Boles, G.W. Argus, J.M. Gillett, P.J. Scott, R. Elven, M.C. LeBlanc, L.J. Gillespie, A.K. Brysting, H. Solstad, & J. G. Harris. 2007. Flora of the Canadian Arctic Archipelago: Descriptions, Illustrations, Identification, and Information Retrieval. CD-ROM. NRC Research Press and Canadian Museum of Nature, Ottawa, Ont. <http://nature.ca/aaflora/data/index.htm>
 
 Böcher, T. W., Fredskild, B., Holmen, K. & K. Jakobsen. 1978. Grønlands Flora. P. Haase & Søns Forlag, Copenhagen.
