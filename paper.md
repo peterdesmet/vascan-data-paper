@@ -38,7 +38,7 @@ Database of Vascular Plants of Canada (VASCAN)
 
 ### Personnel
 
-**Data compilation editors**: Luc Brouillet (Université de Montréal): coordination, taxonomic and geographic compilation, Frédéric Coursol (Montreal Botanical Garden): taxonomic and geographic compilation, Susan Meades (Northern Ontario Plant Database): taxonomic compilation, Marc Favreau (Translation Bureau, Public Works and Government Services Canada): French vernacular names compilation, and Marilyn Anions (botanist, Ottawa): English vernacular names compilation.
+**Data compilation editors**: Luc Brouillet (Université de Montréal Biodiversity Centre): coordination, taxonomic and geographic compilation, Frédéric Coursol (Montreal Botanical Garden): taxonomic and geographic compilation, Susan Meades (Northern Ontario Plant Database): taxonomic compilation, Marc Favreau (Translation Bureau, Public Works and Government Services Canada): French vernacular names compilation, and Marilyn Anions (botanist, Ottawa): English vernacular names compilation.
 
 **Development**: Peter Desmet (Université de Montréal Biodiversity Centre): coordination and web design, Pierre Bélisle (Université de Montréal Biodiversity Centre): development, Christian Gendreau (Université de Montréal Biodiversity Centre): development and maintenance, David Shorthouse (Université de Montréal Biodiversity Centre): coordination, Patrick O'Reilley (Université de Montréal): initial data import.
 
