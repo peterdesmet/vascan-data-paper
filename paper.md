@@ -63,7 +63,7 @@ All taxa are linked to a classification: Chase & Reveal (2009) for the higher cl
 
 The classification includes 16 ranks. They are, in hierarchical order: class, subclass, superorder, order, family, subfamily, tribe, subtribe, genus, subgenus, section, subsection, series, species, subspecies and variety. Varieties within subspecies are accepted, so quadrinomial names are present, but forms are not included.
 
-![Figure 1]()
+![Figure 1](images/figure-1.png)
 
 *Figure 1: Taxonomic distribution of accepted species per family from the Database of Vascular Plants of Canada (VASCAN). The families are ordered by total number of species. Families with less than 80 species are grouped in ‘Other families’.*
 
@@ -84,7 +84,7 @@ The checklist covers all vascular plants reported in Canada, Greenland (Denmark)
 
 The distribution status of the plant is indicated per region. These can be grouped as present (native, introduced or ephemeral), previously reported but currently considered absent (excluded, extirpated), doubtful or not reported (absent). The latter status is not recorded in the database (null value). Excluded taxa are those considered not currently occurring in a region, due either to non-recurring ephemeralness, misidentification, lack of supporting documentation, or when specimens are old and the taxon has not been observed again in more than 50 years. All distribution statuses are defined at <http://data.canadensys.net/vascan/about/#distribution>.
 
-![Figure 2]()
+![Figure 2](images/figure-2.png)
 
 *Figure 2: Regional distribution of accepted species from the Database of Vascular Plants of Canada (VASCAN). For each region, the number of native, introduced and ephemeral species is shown, i.e. species with a confirmed presence in the region. The regions are ordered by total number of species.*
 The VASCAN website (<http://data.canadensys.net/vascan>) provides a distribution map for each taxon. For higher taxa, these are calculated based on lower taxa, with the distribution statuses ordered as such: native, introduced, ephemeral, excluded, extirpated, doubtful, absent. E.g., if two species within the same genus are respectively native and doubtful in a certain region, the genus is considered native for that region.
@@ -123,7 +123,7 @@ The data are stored in a relational database (MySQL), which powers the search, c
 
 At that moment, the application will also automatically generate a Darwin Core Archive of the data, using the GBIF GNA Profile (GBIF 2010) and following best practices for publishing checklists (GBIF 2011). This archive (Figure 3) includes all data, except for calculated distributions, hybrid parents, and user credentials. The archive is then manually uploaded to the Canadensys Repository, a GBIF Integrated Publishing Toolkit, and republished, at which time it will be assigned a new version number (version 22 at the time of publication). The dataset is registered with the Global Biodiversity Information Facility (GBIF), which allows that organization to harvest, display and distribute the data at any time.
 
-![Figure 3]()
+![Figure 3](images/figure-3.png)
 
 *Figure 3: The VASCAN Darwin Core Archive, structured following the GBIF GNA Profile. It is a compressed folder containing 4 text files with tab-seperated values and 2 xml files. Taxon and scientific name information is provided in `taxon.txt`, with one record for each taxon and child-parent-relationships representing the classification. Records in the extension files `distribution.txt`, `vernacularname.txt` and `description.txt` have a many-to-one relation with the records in taxon.txt and provide additional information for each taxon. The archive structure and term definitions are described in `meta.xml`. The dataset metadata are provided in `eml.xml`.*
 
