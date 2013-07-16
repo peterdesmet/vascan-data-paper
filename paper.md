@@ -12,7 +12,7 @@ Received {date}; Revised {date}; Accepted {date}; Published {date}
 
 ## Resource citation
 
-Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 26690 records. Online at <http://dx.doi.org/10.5886/1bft7W5f>, <http://data.canadensys.net/vascan>, and <http://data.gbif.org/datasets/resource/13558>. Version 24 (last updated on 2013-06-30), GBIF key: 3f8a1297-3259-4700-91fc-acc4170b27ce. Data paper DOI: xxxx
+Brouillet L., Desmet P., Coursol F., Meades S.J., Favreau M., Anions M., Bélisle P., Gendreau C., Shorthouse D., and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 26690 records. Online at <http://data.canadensys.net/vascan>, <http://data.canadensys.net/ipt/resource.do?r=vascan&v=24>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10, version 24 (last updated on 2013-07-22). GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper DOI: xxxx.
 
 [^2]: see Appendix 1.
 
@@ -147,13 +147,17 @@ To the extent possible under law, the Université de Montréal Biodiversity Cent
 * **Character encoding**: UTF-8
 * **Format name**: Darwin Core Archive format
 * **Format version**: 1.0
-* **Distribution**: <http://data.canadensys.net/ipt/archive.do?r=vascan>
+* **Distribution**: <http://data.canadensys.net/ipt/archive.do?r=vascan&v=24>
 * **Publication date of data**: 2013-06-30
 * **Language**: English
 * **Licenses of use**: <http://creativecommons.org/publicdomain/zero/1.0/ & http://www.canadensys.net/norms>
 * **Metadata language**: English
 * **Date of metadata creation**: 2013-03-13
 * **Hierarchy level**: Dataset
+
+### Suggested citation for the latest version of the dataset
+
+Brouillet L., Desmet P., Coursol F., Meades S.J., Favreau M., Anions M., Bélisle P., Gendreau C., Shorthouse D., and contributors (2010+). Database of Vascular Plants of Canada (VASCAN). Online at <http://data.canadensys.net/vascan>, <http://dx.doi.org/10.5886/1bft7W5f>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10. Version [xx]. GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper DOI: xxxx. [accessed on [date]]
 
 ## External datasets
 
