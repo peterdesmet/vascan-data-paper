@@ -10,14 +10,13 @@ Peter Desmet, Luc Brouillet[^1]
 
 Academic editor: Vishwas Chavan | Received 19 March 2012 | Accepted 17 July 2013 | Published @ ##### 2013
 
-## Resource citation
 ---
 
 **Citation**: Desmet P, Brouillet L (2013) Database of Vascular Plants of Canada (VASCAN): a community contributed taxonomic checklist of all vascular plants of Canada, Saint Pierre and Miquelon, and Greenland. PhytoKeys @: @–@. doi: 10.3897/phytokeys.@.3100.
 
 ---
 
-Brouillet L., Desmet P., Coursol F., Meades S.J., Favreau M., Anions M., Bélisle P., Gendreau C., Shorthouse D., and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 26690 records. Online at <http://data.canadensys.net/vascan>, <http://data.canadensys.net/ipt/resource.do?r=vascan&v=24>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10, version 24 (last updated on 2013-07-22). GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper DOI: xxxx.
+**Resource citation**: Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 26690 records. Online at <http://data.canadensys.net/vascan>, <http://data.canadensys.net/ipt/resource.do?r=vascan&v=24>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10, version 24 (last updated on 2013-07-22). GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper DOI: xxxx.
 
 [^2]: see Appendix 1.
 
