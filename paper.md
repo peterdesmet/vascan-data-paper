@@ -6,9 +6,10 @@ Peter Desmet, Luc Brouillet[^1]
 
 **Corresponding author**: Luc Brouillet (luc.brouillet@umontreal.ca)
 
-Received {date}; Revised {date}; Accepted {date}; Published {date}
+---
 
 **Citation**: Combination of authors, year of data paper publication (in parenthesis), Title, Journal Name, Volume, Issue number (in paranthesis), and doi of the data paper.
+Academic editor: Vishwas Chavan | Received 19 March 2012 | Accepted 17 July 2013 | Published @ ##### 2013
 
 ## Resource citation
 
