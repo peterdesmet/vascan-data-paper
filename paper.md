@@ -221,7 +221,7 @@ World Bank. 2013. World Development Indicator Data: Terrestrial protected areas 
 
 ### References used to build the dataset
 
-See also the references above. Only the main references are listed; at the time of publication, 521 sources are cited in the dataset.
+See also the references above. Only the main references are listed; at the time of publication, 485 references are cited in the dataset.
 
 Aiken SG, Dallwitz MJ, Consaul LL, McJannet CL, Boles RL, Argus GW, Gillett JM, Scott PJ, Elven R, LeBlanc MC, Gillespie LJ, Brysting AK, Solstad H, Harris JG (2007) Flora of the Canadian Arctic Archipelago: Descriptions, Illustrations, Identification, and Information Retrieval. CD-ROM. NRC Research Press and Canadian Museum of Nature, Ottawa, Ont. <http://nature.ca/aaflora/data/index.htm>
 
