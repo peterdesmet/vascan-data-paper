@@ -18,7 +18,7 @@ Academic editor: Vishwas Chavan | Received 19 March 2012 | Accepted 17 July 2013
 
 **Resource citation**: Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 26690 records. Online at <http://data.canadensys.net/vascan>, <http://data.canadensys.net/ipt/resource.do?r=vascan&v=24>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10, version 24 (last updated on 2013-07-22). GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper ID: doi: 10.3897/phytokeys.@.3100
 
-[^2]: see Appendix 1.
+[^2]: see Appendix.
 
 ## Abstract
 
@@ -123,7 +123,7 @@ All floras covering Canada, Greenland, and Saint Pierre and Miquelon were consid
 
 ### Quality control description
 
-New findings or corrections for plant distributions are communicated to the editors by contributors from each region (Appendix 1). Contributors are local botanists, often associated with Canadian herbaria or Conservation Data Centers. All new reports must be documented by specimens deposited at institutional herbaria.
+New findings or corrections for plant distributions are communicated to the editors by contributors from each region (Appendix). Contributors are local botanists, often associated with Canadian herbaria or Conservation Data Centers. All new reports must be documented by specimens deposited at institutional herbaria.
 
 Suggestions or corrections regarding names, taxonomy, or functionality of the VASCAN website are submitted by users and reviewers through a public Google Code issue tracker at <http://code.google.com/p/canadensys/issues/list?can=2&q=label:vascan>. Name suggestions are validated by the editors against names in Tropicos (<http://www.tropicos.org>), IPNI (<http://www.ipni.org>), GRIN (<http://www.ars-grin.gov>), or other plant name databases, before being manually corrected in the database.
 
@@ -256,6 +256,8 @@ Porsild AE, Cody WG (1980) Vascular Plants of Continental Northwest Territories,
 
 Roland AE (1998) Roland’s Flora of Nova Scotia. Revised by Zinck M. Nimbus Publishing & N.S. Museum. Halifax, N.S.
 
-## Appendix 1 - Contributors
+## Appendix
+
+### Contributors
 
 The following individuals made a significant contribution to VASCAN, in addition to the personnel listed in the section ‘Project details - Personnel’: G. Argus (Canadian Museum of Nature), S. Blaney (Atlantic Canada Conservation Data Center), B. Bennett (Environment Yukon), J. Cayouette (Eastern Cereal and Oilseed Research Centre), Alain Cuerrier (Montreal Botanical Garden), R. Etcheberry (Saint Pierre and Miquelon), B. Ford (University of Manitoba), Bent Fredskild (Denmark), K. Gandhi (Harvard University Herbaria), L. Gillespie (Canadian Museum of Nature), J. Gould ( Alberta Tourism, Parks and Recreation), J. Greenall (Manitoba Conservation Data Centre), G. Halliday (Great Britain), C. Hanel (Newfoundland and Labrador Department of Environment and Conservation), V. Harms (University of Saskatchewan), S.G. Hay (Université de Montréal Biodiversity Centre), J. Labrecque (Centre de données sur le patrimoine naturel du Québec), F. Lomers (British Columbia), J. Maunder (The Rooms Provincial Museum, Newfoundland), M. Munro (Nova Scotia Museum), M. Oldham (Ontario Natural Heritage Information Centre), E. Punter (University of Manitoba), and J.C. Semple (University of Waterloo), as well as many people who made single contributions.
