@@ -12,11 +12,11 @@ Academic editor: Vishwas Chavan | Received 19 March 2012 | Accepted 17 July 2013
 
 ---
 
-**Citation**: Desmet P, Brouillet L (2013) Database of Vascular Plants of Canada (VASCAN): a community contributed taxonomic checklist of all vascular plants of Canada, Saint Pierre and Miquelon, and Greenland. PhytoKeys @: @–@. doi: 10.3897/phytokeys.25.3100
+**Citation**: Desmet P, Brouillet L (2013) Database of Vascular Plants of Canada (VASCAN): a community contributed taxonomic checklist of all vascular plants of Canada, Saint Pierre and Miquelon, and Greenland. PhytoKeys @: @–@. doi: [10.3897/phytokeys.25.3100](http://dx.doi.org/10.3897/phytokeys.25.3100)
 
 ---
 
-**Resource citation**: Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 27189 records. Online at <http://data.canadensys.net/vascan>, <http://data.canadensys.net/ipt/resource.do?r=vascan&v=24>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10, version 24 (last updated on 2013-07-22). GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper ID: doi: 10.3897/phytokeys.25.3100
+**Resource citation**: Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 27189 records. Online at <http://data.canadensys.net/vascan>, <http://data.canadensys.net/ipt/resource.do?r=vascan&v=24>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10, version 24 (last updated on 2013-07-22). GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper ID: [doi: 10.3897/phytokeys.25.3100](http://dx.doi.org/10.3897/phytokeys.25.3100)
 
 [^2]: see Appendix.
 
@@ -162,7 +162,7 @@ To the extent possible under law, the Université de Montréal Biodiversity Cent
 
 ### Suggested citation for the latest version of the dataset
 
-Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors (2010+). Database of Vascular Plants of Canada (VASCAN). Online at <http://data.canadensys.net/vascan>, <http://dx.doi.org/10.5886/1bft7W5f>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10. Version [xx]. GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper ID: doi: 10.3897/phytokeys.25.3100 [accessed on [date]]
+Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors (2010+). Database of Vascular Plants of Canada (VASCAN). Online at <http://data.canadensys.net/vascan>, <http://dx.doi.org/10.5886/1bft7W5f>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10. Version [xx]. GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper ID: doi: [10.3897/phytokeys.25.3100](http://dx.doi.org/10.3897/phytokeys.25.3100) [accessed on [date]]
 
 ## External datasets
 
@@ -179,9 +179,9 @@ The authors wish to thank the reviewers and editor for their constructive feedba
 
 ### References cited within the metadata
 
-Angiosperm Phylogeny Group (2009) An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III. Botanical Journal of the Linnaen Society 161: 105–121. doi: 10.1111/j.1095-8339.2009.00996.x
+Angiosperm Phylogeny Group (2009) An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III. Botanical Journal of the Linnaen Society 161: 105–121. doi: [10.1111/j.1095-8339.2009.00996.x](http://dx.doi.org/10.1111/j.1095-8339.2009.00996.x)
 
-Chase MW, Reveal JL (2009) A phylogenetic classification of land plants to accompany APG III. Botanical Journal of the Linnaen Society 161 (2): 122–127. doi: 10.1111/j.1095- 8339.2009.01002.x
+Chase MW, Reveal JL (2009) A phylogenetic classification of land plants to accompany APG III. Botanical Journal of the Linnaen Society 161 (2): 122–127. doi: [10.1111/j.1095-8339.2009.01002.x](http://dx.doi.org/10.1111/j.1095-8339.2009.01002.x)
 
 Christenhusz MJM, Reveal JL, Farjon A, Gardner MF, Mill RR, Chase MW (2011a) A new classification and linear sequence of extant gymnosperms. Phytotaxa 19: 55–70.
 
@@ -207,7 +207,7 @@ Rothfells CJ, Sundue MA, Kuo L-Y, Larsson A, Kato M, Schuettpelz E, Pryer KM (20
 
 Scoggan HJ (1978–1979) The Flora of Canada. National Museum of Natural Sciences, Publications in Botany 7, 4 volumes.
 
-Smith AR, Pryer KM, Schuettpelz E, Korall P, Schneider H, Wolf PG (2006) A classification for extant ferns. Taxon 55: 705–731. doi: 10.2307/25065646
+Smith AR, Pryer KM, Schuettpelz E, Korall P, Schneider H, Wolf PG (2006) A classification for extant ferns. Taxon 55: 705–731. doi: [10.2307/25065646](http://dx.doi.org/10.2307/25065646)
 
 Thiers B [continuously updated]. Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical Garden’s Virtual Herbarium. <http://sweetgum.nybg.org/ih/> [accessed 15 March 2013]
 
