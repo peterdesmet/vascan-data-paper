@@ -42,17 +42,17 @@ Database of Vascular Plants of Canada (VASCAN)
 
 ### Personnel
 
-**Data compilation editors**: Luc Brouillet (Université de Montréal Biodiversity Centre): coordination, taxonomic and geographic compilation, Frédéric Coursol (Montreal Botanical Garden): taxonomic and geographic compilation, Susan Meades (Northern Ontario Plant Database): taxonomic compilation, Marc Favreau (Translation Bureau, Public Works and Government Services Canada): French vernacular names compilation, and Marilyn Anions (botanist, Ottawa): English vernacular names compilation.
+**Data compilation editors**: Luc Brouillet (Université de Montréal Biodiversity Centre): coordination, taxonomic and geographic compilation, Frédéric Coursol (Montreal Botanical Garden): taxonomic and geographic compilation, Susan Meades (Northern Ontario Plant Database): taxonomic compilation, Marc Favreau (Translation Bureau, Public Works and Government Services Canada): French vernacular names compilation, Marilyn Anions (botanist, Ottawa): English vernacular names compilation.
 
 **Development**: Peter Desmet (Université de Montréal Biodiversity Centre): coordination and web design, Pierre Bélisle (Université de Montréal Biodiversity Centre): development, Christian Gendreau (Université de Montréal Biodiversity Centre): development and maintenance, David Shorthouse (Université de Montréal Biodiversity Centre): coordination, Patrick O'Reilley (Université de Montréal): initial data import.
 
 ### Funding
 
-Partial funding came from Parks Canada, the Canadian Biodiversity Information Facility (CBIF), NatureServe Canada, the Canadian Foundation for Innovation (CFI), and the Gouvernment of Québec (grant to the Université de Montréal Biodiversity Centre and Canadensys). Most of the compilation work, however, was contributed in kind by the home institution of each collaborator.
+Partial funding came from Parks Canada, the Canadian Biodiversity Information Facility (CBIF), NatureServe Canada, the Canadian Foundation for Innovation (CFI), and the Gouvernement du Québec (grant to the Université de Montréal Biodiversity Centre and Canadensys). Most of the compilation work, however, was contributed in kind by the home institution of each collaborator.
 
 ### Study area description
 
-The study area occupies the northern half of North America (excluding Alaska). The area of Canada is 9,984,670 km<sup>2</sup>, of Greenland (or Kulaalit Nunaat, an autonomous country within the kingdom of Denmark) 2,166,086 km<sup>2</sup>, and Saint Pierre and Miquelon (collectivité territoriale, France) 242 km<sup>2</sup>. The latter is 20 km off the coast of Newfoundland's Burin Peninsula and its characteristics are those of boreal eastern Canada. From west to east, the main physiographic regions are the Western Cordillera, the sedimentary Interior Plains, the Canadian and Greenland Shields (mostly igneous rocks), the sedimentary Great Lakes and St. Lawrences Lowlands, and the Appalachian Mountains. The sedimentary Hudson Bay Lowlands basin lies at the centre of the shield, a northern area of sedimentary plains and mountains, and the Canadian Arctic borders the Arctic Ocean in northern Canada and northern Greenland. An ice cap covers 81% of Greenland.
+The study area occupies the northern half of North America (excluding Alaska). The area of Canada is 9,984,670 km<sup>2</sup>, of Greenland (or Kulaalit Nunaat, an autonomous country within the kingdom of Denmark) 2,166,086 km<sup>2</sup>, and Saint Pierre and Miquelon (collectivité territoriale, France) 242 km<sup>2</sup>. The latter is 20 km off the coast of Newfoundland's Burin Peninsula and its characteristics are those of boreal eastern Canada. From west to east, the main physiographic regions are the Western Cordillera, the sedimentary Interior Plains, the Canadian and Greenland Shields (mostly igneous rocks), the sedimentary Great Lakes and St. Lawrences Lowlands, and the Appalachian Mountains. The sedimentary Hudson Bay Lowlands basin lies at the centre of the shield, a northern area of sedimentary plains and mountains. The Canadian Arctic borders the Arctic Ocean in northern Canada and northern Greenland. An ice cap covers 81% of Greenland.
 
 The dominant vegetation type of the area is the boreal forest, which occupies much of Canada from Yukon and northeastern British Columbia to Newfoundland. To the north, Arctic tundra prevails: it can be divided into low Arctic (with a nearly continuous plant cover, sometimes shrubby) and high Arctic (including polar deserts); these types are the only ones found in Greenland. To the south of the boreal forest, from west to east, are the humid Pacific Coastal forest, the Cordilleran forest, the Prairie grasslands, the eastern temperate forests (southern Ontario and Quebec), and the Atlantic or Acadian forests.
 
@@ -152,11 +152,11 @@ To the extent possible under law, the Université de Montréal Biodiversity Cent
 * **Format name**: Darwin Core Archive format
 * **Format version**: 1.0
 * **Distribution**: <http://data.canadensys.net/ipt/archive.do?r=vascan&v=24>
-* **Publication date of data**: 2013-06-30
+* **Publication date of data**: 2013-07-22
 * **Language**: English
 * **Licenses of use**: <http://creativecommons.org/publicdomain/zero/1.0/ & http://www.canadensys.net/norms>
 * **Metadata language**: English
-* **Date of metadata creation**: 2013-03-13
+* **Date of metadata creation**: 2013-07-22
 * **Hierarchy level**: Dataset
 
 ### Suggested citation for the latest version of the dataset
@@ -260,4 +260,4 @@ Roland AE (1998) Roland’s Flora of Nova Scotia. Revised by Zinck M. Nimbus Pub
 
 ### Contributors
 
-The following individuals made a significant contribution to VASCAN, in addition to the personnel listed in the section ‘Project details - Personnel’: G. Argus (Canadian Museum of Nature), S. Blaney (Atlantic Canada Conservation Data Center), B. Bennett (Environment Yukon), J. Cayouette (Eastern Cereal and Oilseed Research Centre), Alain Cuerrier (Montreal Botanical Garden), R. Etcheberry (Saint Pierre and Miquelon), B. Ford (University of Manitoba), Bent Fredskild (Denmark), K. Gandhi (Harvard University Herbaria), L. Gillespie (Canadian Museum of Nature), J. Gould ( Alberta Tourism, Parks and Recreation), J. Greenall (Manitoba Conservation Data Centre), G. Halliday (Great Britain), C. Hanel (Newfoundland and Labrador Department of Environment and Conservation), V. Harms (University of Saskatchewan), S.G. Hay (Université de Montréal Biodiversity Centre), J. Labrecque (Centre de données sur le patrimoine naturel du Québec), F. Lomers (British Columbia), J. Maunder (The Rooms Provincial Museum, Newfoundland), M. Munro (Nova Scotia Museum), M. Oldham (Ontario Natural Heritage Information Centre), E. Punter (University of Manitoba), and J.C. Semple (University of Waterloo), as well as many people who made single contributions.
+The following individuals made a significant contribution to VASCAN, in addition to the personnel listed in the section ‘Project details - Personnel’: G. Argus (Canadian Museum of Nature), S. Blaney (Atlantic Canada Conservation Data Center), B. Bennett (Environment Yukon), J. Cayouette (Eastern Cereal and Oilseed Research Centre), A. Cuerrier (Montreal Botanical Garden), R. Etcheberry (Saint Pierre and Miquelon), B. Ford (University of Manitoba), B. Fredskild (Denmark), K. Gandhi (Harvard University Herbaria), L. Gillespie (Canadian Museum of Nature), J. Gould (Alberta Tourism, Parks and Recreation), J. Greenall (Manitoba Conservation Data Centre), G. Halliday (Great Britain), C. Hanel (Newfoundland and Labrador Department of Environment and Conservation), V. Harms (University of Saskatchewan), S.G. Hay (Université de Montréal Biodiversity Centre), J. Labrecque (Centre de données sur le patrimoine naturel du Québec), F. Lomers (British Columbia), J. Maunder (The Rooms Provincial Museum, Newfoundland), M. Munro (Nova Scotia Museum), M. Oldham (Ontario Natural Heritage Information Centre), E. Punter (University of Manitoba), and J.C. Semple (University of Waterloo), as well as many people who made single contributions.
