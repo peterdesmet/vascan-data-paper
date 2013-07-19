@@ -187,7 +187,7 @@ Christenhusz MJM, Reveal JL, Farjon A, Gardner MF, Mill RR, Chase MW (2011a) A n
 
 Christenhusz MJM, Zhang X-C, Schneider H (2011b) A linear sequence of extant families and genera of lycophytes and ferns. Phytotaxa 19: 7–54.
 
-COSEWIC (2009+) Committee on the Status of Endangered Wildlife in Canada. <http://www. cosewic.gc.ca/eng/sct6/index_e.cfm> [accessed June 17, 2013].
+COSEWIC (2009+) Committee on the Status of Endangered Wildlife in Canada. <http://www.cosewic.gc.ca/eng/sct6/index_e.cfm> [accessed June 17, 2013].
 
 Darbyshire SJ, Favreau M, Murray M (2000) Common and scientific names of weeds in Canada. Research Branch, Agriculture and Agri-Food Canada, Ottawa, Ont. Publ. 1397/B. 132 pp.
 
