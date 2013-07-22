@@ -16,7 +16,7 @@ Academic editor: Vishwas Chavan | Received 19 March 2012 | Accepted 17 July 2013
 
 ---
 
-**Resource citation**: Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 27189 records. Online at <http://data.canadensys.net/vascan>, <http://data.canadensys.net/ipt/resource.do?r=vascan&v=24>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10, version 24 (last updated on 2013-07-22). GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper ID: doi: [10.3897/phytokeys.25.3100](http://dx.doi.org/10.3897/phytokeys.25.3100)
+**Resource citation**: Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors[^2] (2010+). Database of Vascular Plants of Canada (VASCAN). 27189 records. Online at <http://data.canadensys.net/vascan>, <http://dx.doi.org/10.5886/Y7SMZY5P>, and <http://data.gbif.org/datasets/resource/13558>, released on 2010-12-10, version 24 (last updated on 2013-07-22). GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://gbrds.gbif.org/browse/agent?uuid=3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper ID: doi: [10.3897/phytokeys.25.3100](http://dx.doi.org/10.3897/phytokeys.25.3100)
 
 [^2]: see Appendix.
 
@@ -152,7 +152,7 @@ To the extent possible under law, the Université de Montréal Biodiversity Cent
 * **Character encoding**: UTF-8
 * **Format name**: Darwin Core Archive format
 * **Format version**: 1.0
-* **Distribution**: <http://data.canadensys.net/ipt/archive.do?r=vascan&v=24>
+* **Distribution**: <http://dx.doi.org/10.5886/Y7SMZY5P>
 * **Publication date of data**: 2013-07-22
 * **Language**: English
 * **Licenses of use**: <http://creativecommons.org/publicdomain/zero/1.0/> & <http://www.canadensys.net/norms>
