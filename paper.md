@@ -155,7 +155,7 @@ To the extent possible under law, the Université de Montréal Biodiversity Cent
 * **Distribution**: <http://data.canadensys.net/ipt/archive.do?r=vascan&v=24>
 * **Publication date of data**: 2013-07-22
 * **Language**: English
-* **Licenses of use**: <http://creativecommons.org/publicdomain/zero/1.0/ & http://www.canadensys.net/norms>
+* **Licenses of use**: <http://creativecommons.org/publicdomain/zero/1.0/> & <http://www.canadensys.net/norms>
 * **Metadata language**: English
 * **Date of metadata creation**: 2013-07-22
 * **Hierarchy level**: Dataset
