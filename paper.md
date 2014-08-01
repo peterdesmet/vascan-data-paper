@@ -164,13 +164,6 @@ To the extent possible under law, the Université de Montréal Biodiversity Cent
 
 Brouillet L, Desmet P, Coursol F, Meades SJ, Favreau M, Anions M, Bélisle P, Gendreau C, Shorthouse D, and contributors (2010+). Database of Vascular Plants of Canada (VASCAN). Online at <http://data.canadensys.net/vascan>, <http://doi.org/10.5886/1bft7W5f>, and <http://www.gbif.org/dataset/3f8a1297-3259-4700-91fc-acc4170b27ce>, released on 2010-12-10. Version [xx]. GBIF key: [3f8a1297-3259-4700-91fc-acc4170b27ce](http://www.gbif.org/dataset/3f8a1297-3259-4700-91fc-acc4170b27ce). Data paper ID: doi: [10.3897/phytokeys.25.3100](http://doi.org/10.3897/phytokeys.25.3100) [accessed on [date]]
 
-## External datasets
-
-* **Object name**: GBIF portal
-* **Character encoding**: UTF-8
-* **Format name**: various formats
-* **Distribution**: <http://www.gbif.org/dataset/3f8a1297-3259-4700-91fc-acc4170b27ce>
-
 ## Acknowledgements
 
 The authors wish to thank the reviewers and editor for their constructive feedback.
