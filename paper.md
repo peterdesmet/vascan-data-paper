@@ -4,7 +4,7 @@ Peter Desmet, Luc Brouillet[^1]
 
 [^1]: Université de Montréal Biodiversity Centre, 4101 rue Sherbrooke est, H1X2B2, Montreal, Canada
 
-**Corresponding author**: Luc Brouillet (luc.brouillet@umontreal.ca)
+**Corresponding author**: Luc Brouillet (<luc.brouillet@umontreal.ca>)
 
 ---
 
